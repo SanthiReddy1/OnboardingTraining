@@ -15,12 +15,17 @@ namespace NunitDemo
         {
             Console.WriteLine("SetUp Method");
         }
-        [Test][Ignore("Ignoring TestMethod1")]
+        [Test]
+        //[Ignore("Ignoring TestMethod1")]
         [Category("Smoke")]
         [Explicit]
         public void TestMethod1()
         {
             Console.WriteLine("Test Method1");
+            string fruit = "Apples";
+            Assert.IsNotEmpty(fruit);
+            Assert.IsNull(fruit, fruit + " is not null");
+            Assert.AreEqual("Apple", fruit, fruit + " is not equal to Apple");
         }
         [Test]
         [Category("Regression")]

@@ -12,3 +12,4 @@ C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\obj\Debug\NunitDemo.csp
 C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\obj\Debug\NunitDemo.csproj.CopyComplete
 C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\obj\Debug\NunitDemo.exe
 C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\obj\Debug\NunitDemo.pdb
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\obj\Debug\NunitDemo.csprojAssemblyReference.cache
