@@ -1,0 +1,7 @@
+C:\Users\Santhi_Katreddy\source\repos\Training\Oops Concepts\bin\Debug\Oops Concepts.exe.config
+C:\Users\Santhi_Katreddy\source\repos\Training\Oops Concepts\bin\Debug\Oops Concepts.exe
+C:\Users\Santhi_Katreddy\source\repos\Training\Oops Concepts\bin\Debug\Oops Concepts.pdb
+C:\Users\Santhi_Katreddy\source\repos\Training\Oops Concepts\obj\Debug\Oops Concepts.csprojAssemblyReference.cache
+C:\Users\Santhi_Katreddy\source\repos\Training\Oops Concepts\obj\Debug\Oops Concepts.csproj.CoreCompileInputs.cache
+C:\Users\Santhi_Katreddy\source\repos\Training\Oops Concepts\obj\Debug\Oops Concepts.exe
+C:\Users\Santhi_Katreddy\source\repos\Training\Oops Concepts\obj\Debug\Oops Concepts.pdb

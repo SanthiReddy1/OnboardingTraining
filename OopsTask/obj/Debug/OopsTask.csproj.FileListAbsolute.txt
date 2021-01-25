@@ -1,0 +1,7 @@
+C:\Users\Santhi_Katreddy\source\repos\Training\OopsTask\bin\Debug\OopsTask.exe.config
+C:\Users\Santhi_Katreddy\source\repos\Training\OopsTask\bin\Debug\OopsTask.exe
+C:\Users\Santhi_Katreddy\source\repos\Training\OopsTask\bin\Debug\OopsTask.pdb
+C:\Users\Santhi_Katreddy\source\repos\Training\OopsTask\obj\Debug\OopsTask.csprojAssemblyReference.cache
+C:\Users\Santhi_Katreddy\source\repos\Training\OopsTask\obj\Debug\OopsTask.csproj.CoreCompileInputs.cache
+C:\Users\Santhi_Katreddy\source\repos\Training\OopsTask\obj\Debug\OopsTask.exe
+C:\Users\Santhi_Katreddy\source\repos\Training\OopsTask\obj\Debug\OopsTask.pdb

@@ -1,0 +1,7 @@
+C:\Users\Santhi_Katreddy\source\repos\Training\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\Santhi_Katreddy\source\repos\Training\CSharp\bin\Debug\CSharp.exe
+C:\Users\Santhi_Katreddy\source\repos\Training\CSharp\bin\Debug\CSharp.pdb
+C:\Users\Santhi_Katreddy\source\repos\Training\CSharp\obj\Debug\CSharp.csprojAssemblyReference.cache
+C:\Users\Santhi_Katreddy\source\repos\Training\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Santhi_Katreddy\source\repos\Training\CSharp\obj\Debug\CSharp.exe
+C:\Users\Santhi_Katreddy\source\repos\Training\CSharp\obj\Debug\CSharp.pdb

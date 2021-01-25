@@ -1,0 +1,6 @@
+C:\Users\Santhi_Katreddy\source\repos\Training\Collections\bin\Debug\Collections.exe.config
+C:\Users\Santhi_Katreddy\source\repos\Training\Collections\bin\Debug\Collections.exe
+C:\Users\Santhi_Katreddy\source\repos\Training\Collections\bin\Debug\Collections.pdb
+C:\Users\Santhi_Katreddy\source\repos\Training\Collections\obj\Debug\Training.csproj.CoreCompileInputs.cache
+C:\Users\Santhi_Katreddy\source\repos\Training\Collections\obj\Debug\Collections.exe
+C:\Users\Santhi_Katreddy\source\repos\Training\Collections\obj\Debug\Collections.pdb

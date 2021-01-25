@@ -1,0 +1,14 @@
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\bin\Debug\nunit.engine.dll
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\bin\Debug\nunit.engine.api.dll
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\bin\Debug\nunit.engine.core.dll
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\bin\Debug\NunitDemo.exe.config
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\bin\Debug\NunitDemo.exe
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\bin\Debug\NunitDemo.pdb
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\bin\Debug\nunit.framework.dll
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\bin\Debug\nunit.framework.xml
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\obj\Debug\NunitDemo.csproj.CoreCompileInputs.cache
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\obj\Debug\NunitDemo.csproj.CopyComplete
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\obj\Debug\NunitDemo.exe
+C:\Users\Santhi_Katreddy\source\repos\Training\NunitDemo\obj\Debug\NunitDemo.pdb
